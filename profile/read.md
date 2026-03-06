@@ -61,7 +61,7 @@ Your avatar in Roblox is a character that stands in for you in every game or act
 
 Players can modify:
 
-- Body type (R6 or R15 rigs)
+- Body type (R6 or [R15](https://roblox.fandom.com/wiki/R15) rigs)
 - Clothing (classic and layered clothing)
 - Faces and hairstyles
 - Accessories (hats, auras, gear)
